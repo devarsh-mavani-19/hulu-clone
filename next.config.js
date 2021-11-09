@@ -5,7 +5,7 @@ module.exports = {
       'localhost',
       'icon-library.com',
       'image.tmdb.org',
-      process.env.hostname
+      'hulu-clone-gdlyobtju-devarsh-mavani-19.vercel.app'
     ]
   }
 }
